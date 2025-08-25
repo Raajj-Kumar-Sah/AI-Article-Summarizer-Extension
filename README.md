@@ -28,13 +28,13 @@ time and get the gist of long reads in seconds.
 ------------------------------------------------------------------------
 
 ## 📸 Screenshots
-![Setup Gemini api](./Screenshots/1.jpg)  
+![Setup Gemini api](Article-summerizer/Screenshots//1.jpg)  
 
 ### Options Page  
-![Breif Explaination](./Screenshots/2.jpg)  
+![Breif Explaination](Article-summerizer/Screenshots/2.jpg)  
 
 ### Summary Result Example  
-![Detailed Explanation](./Screenshots/3.jpg) 
+![Detailed Explanation](Article-summerizer/Screenshots/3.jpg) 
 
 ------------------------------------------------------------------------
 
@@ -107,6 +107,7 @@ modify.
 ------------------------------------------------------------------------
 
 ### 💡 Made with ❤️ by  Raaj-Kumar-Sah 
+
 
 
 
